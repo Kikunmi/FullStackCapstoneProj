@@ -1,0 +1,8 @@
+Project Idea 1: Smart Travel Planner Preferred
+This project is a travel planning application that allows users to create and organize trips in one place. Users will be able to search destinations and attractions, save trips, and build day by day itineraries with notes. The application will combine external travel data with user specific planning data to streamline trip organization and reduce the need to juggle multiple tools.
+
+Project Idea 2: Subscription & Expense Tracker
+This project is a personal finance tool focused on helping users track recurring subscriptions and understand their monthly spending. Users will be able to securely log in, add and manage subscriptions, categorize expenses, and view cost summaries. The app emphasizes data persistence, user dashboards, and clear financial insights.
+
+Project Idea 3: Skill Swap Community Platform
+This project is a community platform that allows users to list skills they can offer and skills they want to learn. Users can browse other profiles, filter by skill or location, and request skill swaps. The application focuses on user to user interactions, structured data relationships, and community driven discovery.
